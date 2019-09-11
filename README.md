@@ -1,1 +1,0 @@
-# chaincoin-detached-sigs
